@@ -11,6 +11,7 @@ We thank you for all your contributions over the years and hope you've enjoyed u
 [![Build Status](https://secure.travis-ci.org/angular-ui/bootstrap.svg)](http://travis-ci.org/angular-ui/bootstrap)
 [![devDependency Status](https://david-dm.org/angular-ui/bootstrap/dev-status.svg?branch=master)](https://david-dm.org/angular-ui/bootstrap#info=devDependencies)
 [![CDNJS](https://img.shields.io/cdnjs/v/angular-ui-bootstrap.svg)](https://cdnjs.com/libraries/angular-ui-bootstrap/)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/angular-ui-bootstrap/badge?style=rounded)](https://www.jsdelivr.com/package/npm/angular-ui-bootstrap)
 
 ### Quick links
 - [Demo](#demo)
